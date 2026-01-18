@@ -1,0 +1,5 @@
+db.url=jdbc:sqlserver://<internal-host>
+db.user=<username>
+db.password=<password>
+
+store.baseUrl=http://localhost:5000
